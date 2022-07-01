@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk</name>
+   <tag></tag>
+   <elementGuidId>d555d309-9513-4837-b436-0291c8d976e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c728cfe-bc11-48dc-89cd-4bd6ac558278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>6ab096b0-6ed3-441f-9701-e9c949030f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>58ba9d7b-7a19-40ba-85b9-b9533f129162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1tbvo2g-unf-modal e1nc1fa20&quot;]/div[@class=&quot;css-xj3lix&quot;]/form[1]/button[@class=&quot;css-65wer9-unf-btn eg8apji0&quot;]/span[1]/span[1]</value>
+      <webElementGuid>c15ef82c-c720-4de3-a185-57ba8fff2a7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/following::span[2]</value>
+      <webElementGuid>df276cf4-736c-4eef-b2a2-f19527259a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau masuk dengan'])[1]/preceding::span[2]</value>
+      <webElementGuid>ecc1ecf2-e63c-415b-b6f5-029412565717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Kode QR'])[1]/preceding::span[4]</value>
+      <webElementGuid>8ff328c6-1470-4ce7-9ec6-1a4170baae06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>76174834-e624-46ea-8ac8-6b84d8c5d0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>777d2fd3-1b9c-49eb-8c7c-d339f244cf5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

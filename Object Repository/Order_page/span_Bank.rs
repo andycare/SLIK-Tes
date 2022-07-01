@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bank</name>
+   <tag></tag>
+   <elementGuidId>94cb2a53-f079-4891-b13b-26566381a97b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='viewOrderStatusLayer']/div[2]/table/tbody/tr[3]/td/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.font_color29</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'PT. BANK CENTRAL ASIA Tbk.' or . = 'PT. BANK CENTRAL ASIA Tbk.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab97bfda-7815-4047-8f29-4b16de0317b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font_color29</value>
+      <webElementGuid>5a36cb64-37e2-412e-b676-71e8d87194e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT. BANK CENTRAL ASIA Tbk.</value>
+      <webElementGuid>96bd0c99-d3c8-4750-9f19-fbaafd2063b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewOrderStatusLayer&quot;)/div[@class=&quot;tb_type2&quot;]/table[@class=&quot;row&quot;]/tbody[1]/tr[3]/td[1]/ul[@class=&quot;bltxt_type1 mgt10&quot;]/li[1]/span[@class=&quot;font_color29&quot;]</value>
+      <webElementGuid>b75b5f69-dec1-4e1b-83f7-b2fcd6e1e331</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='viewOrderStatusLayer']/div[2]/table/tbody/tr[3]/td/ul/li/span</value>
+      <webElementGuid>8c6c6aae-e3fb-441b-abb9-59e417a07d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Pembayaran'])[2]/following::span[1]</value>
+      <webElementGuid>e34e7167-3997-4a6f-bcc4-cc81f9548794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salin'])[1]/preceding::span[2]</value>
+      <webElementGuid>08e569ba-7192-4738-a636-13f9791461fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PT. BANK CENTRAL ASIA Tbk.']/parent::*</value>
+      <webElementGuid>4d107ea5-0ecb-4cea-98ea-bd5b236ceb3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>214ad055-73ee-4d4a-a3ec-424afd19ed8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PT. BANK CENTRAL ASIA Tbk.' or . = 'PT. BANK CENTRAL ASIA Tbk.')]</value>
+      <webElementGuid>158ba05b-e910-46c8-a49a-5121ef89b32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
